@@ -15,6 +15,7 @@ Sua aplicação web não precisa:
 1. Ter uma aparência bonita.
 
 Para este desafio: 
+
 1. Leia atentamente todo o documento(.docx) em anexo antes de começar o desafio;
 1. Descreva todos os passos necessários para rodar o desafio. (qual banco usar, como criar o base de dados no banco, como montar o projeto, comandos, adicionar ao tomcat/JBoss e etc...), porém o Ideal é a entrega dos fontes via repositório GIT e a publicação do desafio em algum servidor tipo heroku;
 1. Descreva todas as funcionalidades que não conseguiu terminar e o porque;
